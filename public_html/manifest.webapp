@@ -1,13 +1,13 @@
 {
-    "name": "My Books",
-    "description": "My elevator pitch goes here",
+    "name": "My Book",
+    "description": "Personal book management application in Firefox OS",
     "launch_path": "/index.html",
     "icons": {
         "128": "/img/appicon-128x128.png"
     },
     "developer": {
-        "name": "Your name or organization",
-        "url": "http://your-homepage-here.org"
+        "name": "Barcode Bandung",
+        "url": "http://barcodebdg.github.com"
     },
     "default_locale": "en"
 }
